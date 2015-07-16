@@ -1,3 +1,5 @@
+package helloabc;
+
 import java.util.Scanner;
 
 public class CanMarry {
